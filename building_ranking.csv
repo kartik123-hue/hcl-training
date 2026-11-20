@@ -1,0 +1,5 @@
+Building,Rank,Records,Total_kWh,Share_Pct,Average_kWh,Median_kWh,Std_Dev_kWh
+Block A,1,157,68330.1,26.51,435.22,429.9,100.34
+Lab,2,157,67600.55,26.23,430.58,434.85,106.93
+Block B,3,146,61158.8,23.73,418.9,423.0,102.9
+Block C,4,140,60624.6,23.52,433.03,448.1,100.23
